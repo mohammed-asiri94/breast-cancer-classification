@@ -1,0 +1,3 @@
+model,test_accuracy,malignant_precision,malignant_recall,malignant_f1,malignant_support,benign_recall,benign_support
+Neural network,0.9474,1.0000,0.8571,0.9231,21,1.0000,36
+Logistic regression,0.9298,1.0000,0.8095,0.8947,21,1.0000,36

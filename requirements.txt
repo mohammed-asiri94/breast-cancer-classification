@@ -1,0 +1,11 @@
+# Versions evidenced in the recorded environment
+tensorflow==2.19.0
+keras==3.10.0
+numpy==2.0.2
+keras-tuner==1.4.7
+# Original versions were not recorded for the following packages
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyterlab
